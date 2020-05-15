@@ -1,0 +1,2 @@
+The final score between mouse gene and human gene is 1091 while the other two score is -250. So that the human gene and mouse gene are 
+very similiar. In addition, the edit distance between mouse gene and human gene is the smallest, which proves the similarity between human gene and mouse gene

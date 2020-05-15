@@ -1,0 +1,19 @@
+
+Question: How have new cases and total cases developed over time in Spain?
+
+line: line 82-99
+
+discussion: 
+
+task1: From the form we can know that there were no cases in Afghanistan, so that Afghanistan is ralatively safe before 2020-01-12.
+
+task2: The ':' could express the step when fetching the number.
+
+task3£ºFrom the mean and medain of the new cases, we could know that the upward trend of the cases was still evident, however, the cases were 
+concentrated in some specific area for the median of new cases is 0.
+
+task4: The boxplot, we could analyzed that the distribution of cases varies greatly from region to region.
+
+task5: These four plots could tell us that the covid-19 broke out rapidly at the beginning of the March. In addition, the spanish cases' tendency is 
+similiar to the world cases' tendency.
+

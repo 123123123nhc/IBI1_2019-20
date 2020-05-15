@@ -1,0 +1,6 @@
+Actually, this practical troubled me a lot at first for I haven't learned many knowledges about this. However, the practical gives us lots of tips and I 
+finally finished the practical and obtain much knowledge.
+
+In this practical, I learned how to take the random choice and the skills about how to raw a dynamic change map of multiple data.
+
+However,I  sometimes found my plot was just a straight line or my x and y axis missed.
